@@ -1,102 +1,157 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amr%20Ebrahim&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Robotics%20Engineer%20%C2%B7%20Educator&descSize=20&descAlignY=60" alt="Amr Ebrahim banner" width="100%"/>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
-</div>
-
-<hr></hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
-
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9AB7&center=true&vCenter=true&width=650&lines=Building+AI+that+sees%2C+talks%2C+and+moves;Medical+Imaging+%C2%B7+Computer+Vision+%C2%B7+LLMs;Robotics+%C2%B7+Embedded+Systems+%C2%B7+Automation;Teaching+the+next+generation+of+AI+builders" alt="Typing animation" />
 </a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<br/>
 
-</details>
-  
-<hr></hr>
+![Location](https://img.shields.io/badge/📍_Alexandria,_Egypt-2C5364?style=for-the-badge)
+![University](https://img.shields.io/badge/🎓_E--JUST_·_Class_of_2026-203A43?style=for-the-badge)
+![Status](https://img.shields.io/badge/🟢_Open_to_work-2EA44F?style=for-the-badge)
 
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-black?style=flat-square&logo=readthedocs&logoColor=white)](link-to-your-resume.pdf)
 
 </div>
 
+---
+
+## 👋 About Me
+
+I'm a **Computer Science and Engineering student at E-JUST** (Egypt-Japan University of Science and Technology), graduating in **2026**, and an **AI & Robotics Instructor/Engineer at Smart Technology** since April 2025.
+
+My work sits where machine learning meets the physical world: training models, wiring them into real systems, and explaining them clearly enough that a 13-year-old can build on them.
+
+| | |
+|---|---|
+| 🧠 **AI / ML** | Deep learning, computer vision, LLM integration, medical imaging |
+| 🤖 **Robotics** | Arduino, Raspberry Pi, sensor control, PID, voice and vision assistants |
+| ⚙️ **Automation** | n8n and Make.com workflows that save real time |
+| 🎓 **Education** | AI/ML curriculum design for ages 13–16, robotics and programming instruction |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,cpp,r,pytorch,tensorflow,arduino,raspberrypi,aws,git,linux&perline=10" alt="Core stack icons" />
+
+<br/><br/>
+
+![SQL](https://img.shields.io/badge/SQL-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+```python
+class Amr:
+    languages  = ["Python", "C++", "SQL", "R"]
+    ai_ml      = ["PyTorch", "TensorFlow", "Scikit-learn", "Computer Vision", "LLM integration"]
+    hardware   = ["Arduino", "Raspberry Pi", "Embedded systems"]
+    automation = ["n8n", "Make.com"]
+    cloud      = ["AWS (foundational)"]
+    teaching   = ["Curriculum design", "Robotics", "Block & text programming"]
+
+    def mission(self):
+        return "Make AI practical, accessible, and useful."
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🩻 Medical Imaging AI Pipeline — *Graduation Project*
+
+> An end-to-end pipeline for **pneumonia detection from chest X-rays**.
+
+- Fine-tuned **MedGemma** for chest X-ray classification
+- Deployed the model on a website intended to support junior doctors in diagnosis
+- Includes published deep learning research
+
+`Deep Learning` · `MedGemma` · `Medical Imaging` · `Deployment`
+
+---
+
+### 🤖 Otto — Offline AI Voice & Vision Assistant
+
+> A fully local, free, **no-paid-API** assistant for an Otto robot with a screen, camera, and microphone.
+
+- Sees, talks, and holds a full conversation, all offline
+- Runs locally on a GPU machine
+- Supports **English and Arabic**, including Arabic speech recognition
+
+`Speech Recognition` · `Computer Vision` · `Local LLMs` · `Raspberry Pi`
+
+---
+
+### More Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| 🏎️ **PID Line Follower Car** | Line-following car with IR-sensor feedback and PID control | `Arduino` `C++` `PID` |
+| 💬 **WhatsApp Student Messaging** | Keyword menu-based, student-initiated messaging pipeline designed to avoid Meta ban risk, with a full workflow document | `n8n` |
+| 📋 **Daily Report Automation** | Google Form → Excel → AI paraphrase → Gmail to manager, plus a confirmation email to each employee | `Make.com` `Gmail` `LLM` |
+| 📚 **Data Science & AI Curriculum** | 48 lectures in four courses (Data Analysis, Machine Learning, Deep Learning 1 & 2) for ages 13–16, with slide decks | `Curriculum Design` |
+| 🔧 **Teaching Robotics Kits** | Arduino/Nano Bluetooth car with LDR laser-detection safety features; LEGO WeDo 2.0 projects for young students | `Arduino` `LEGO WeDo` |
+
+---
+
+## 💼 Experience
+
+**AI & Robotics Instructor / Engineer** · Smart Technology · *Apr 2025 – Present*
+
+- Design the AI/ML curriculum and teach robotics and programming
+- Build robotics prototypes and automation workflows
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Sc. Computer Science and Engineering**: E-JUST, expected 2026
+- **Data Analytics Certification**: Digital Egypt Pioneers Initiative (DEPI), MCIT Egypt, May–Oct 2024 (Excel, Tableau, SQL, Python, R)
+
+---
+
+## 🌱 Currently
+
+- 🤖 Building and refining the Otto assistant
+- ☁️ Exploring cloud security (AWS IAM/STS) and AI agent design patterns
+- 🔎 Looking for my next role in AI, data science, or data engineering
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Replace YOUR-USERNAME with your GitHub username -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="49%"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always happy to talk about AI, robotics, or teaching.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](link-to-your-resume.pdf)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" width="100%"/>
+
+</div>
